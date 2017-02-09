@@ -19,7 +19,7 @@
 <img src="https://github.com/rozetta/rozettaannounce/blob/master/assets/7d585eec-cda2-762b-febe-499f2121f74e.png" class="img-responsive" />
 3. Githubのアカウントを追加します。（Githubの場合はプロトコルはHTTPSです。）※GithubのUser,Password画面が表示したら、Passwordの箇所に「PersonalAccessToken」を記入します。
 4. リポジトリからクローンします。
-<img src="https://github.com/rozetta/rozettaannounce/blob/master/assets/sourcetree-clone-repo.png" class="img-responsive" />
+<img src="https://github.com/rozetta/RozettaAnnounce/blob/master/assets/sourcetree-clone-repo.png" class="img-responsive" />
 
 参考:
 [はじめてのSourceTree(使い方編)](http://qiita.com/naoki85/items/c7660d70347e9e70b201),
