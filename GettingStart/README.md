@@ -29,10 +29,10 @@
 1. Git for Windowsをインストールする。 [Git for Windows](https://git-for-windows.github.io/)
 2. Git for Windows起動します。<br/>
 <img src="https://github.com/rozetta/rozettaannounce/blob/master/assets/git-for-window.png" class="img-responsive" />
-3. Gitのフォルダーを準備します。
-`$ mkdir c:\GitRepo`
+3. Gitのフォルダーを準備します。<br/>
+`$ mkdir c:\GitRepo`<br/>
 `$ cd c:\GitRepo`
-4. GitのRepositoryをCloneします。
+4. GitのRepositoryをCloneします。<br/>
 `git clone <リポジトリフォルダへのhttpパス>`
 
 参考：
