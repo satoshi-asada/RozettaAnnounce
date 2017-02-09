@@ -26,9 +26,11 @@
 [Source Treeの使い方](http://qiita.com/takamichi_tsutsumi/items/6358a74a62d4fc15d1a5)
 
 ###Gitのコマンドライン (Windows) (任意)
-1. [Git for Windows](https://git-for-windows.github.io/) をインストールする。
+1. Git for Windowsをインストールする。 [Git for Windows](https://git-for-windows.github.io/)
 2. Git for Windows起動します。
+
 <img src="https://github.com/rozetta/rozettaannounce/blob/master/assets/git-for-window.png" class="img-responsive" />
+
 3. Gitのフォルダーを準備します。
 `$ mkdir c:\GitRepo`
 `$ cd c:\GitRepo`
