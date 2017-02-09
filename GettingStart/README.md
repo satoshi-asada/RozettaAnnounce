@@ -14,11 +14,11 @@
 
 ##Gitツールの準備
 ###SourceTree (任意)
-1. SourceTreeの[トップページ](https://ja.atlassian.com/software/sourcetree)にアクセスし、プログラムダウンロードします。
+1. SourceTreeの[トップページ](https://ja.atlassian.com/software/sourcetree)にアクセスし、プログラムをダウンロードします。
 2. SourceTreeのアカウント設定をする必要があります。
 <img src="https://github.com/rozetta/rozettaannounce/blob/master/assets/7d585eec-cda2-762b-febe-499f2121f74e.png" class="img-responsive" />
 3. Githubのアカウントを追加します。（Githubの場合はプロトコルはHTTPSです。）※GithubのUser,Password画面が表示したら、Passwordの箇所に「PersonalAccessToken」を記入します。
-4. リポジトリからクローンします。
+4. リポジトリからcloneします。
 <img src="https://github.com/rozetta/RozettaAnnounce/blob/master/assets/sourcetree-clone-repo.png" class="img-responsive" />
 
 参考:
