@@ -13,7 +13,7 @@
 参考：[今さら聞けない！GitHubの使い方【超初心者向け】](https://techacademy.jp/magazine/6235)
 
 ##Gitツールの準備
-### SourceTree (任意)
+###SourceTree (任意)
 1. SourceTreeの[トップページ](https://ja.atlassian.com/software/sourcetree)にアクセスし、プログラムダウンロードします。
 2. SourceTreeのアカウント設定をする必要があります。
 <img src="https://github.com/rozetta/rozettaannounce/blob/master/assets/7d585eec-cda2-762b-febe-499f2121f74e.png" class="img-responsive" />
@@ -27,10 +27,8 @@
 
 ###Gitのコマンドライン (Windows) (任意)
 1. Git for Windowsをインストールする。 [Git for Windows](https://git-for-windows.github.io/)
-2. Git for Windows起動します。
-
+2. Git for Windows起動します。<br/>
 <img src="https://github.com/rozetta/rozettaannounce/blob/master/assets/git-for-window.png" class="img-responsive" />
-
 3. Gitのフォルダーを準備します。
 `$ mkdir c:\GitRepo`
 `$ cd c:\GitRepo`
