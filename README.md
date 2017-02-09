@@ -1,2 +1,2 @@
 # RozettaAnnounce
-general information
+this repository is for public information only.
